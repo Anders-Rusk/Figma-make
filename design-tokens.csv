@@ -1,0 +1,23 @@
+Компонент,Светлая тема,Тёмная тема
+Surface 1,#FFFFFF,#1C1C1C
+Surface 2,#F7F7F7,#2A2A2A
+Surface 3,#E0E0E0,#3C3C3C
+Text Primary,#000000,#FFFFFF
+Text Secondary,#757575,#B0B0B0
+Icon Color,#000000,#FFFFFF
+Button Primary Background,#6200EE,#BB86FC
+Button Primary Text,#FFFFFF,#FFFFFF
+Button Secondary Background,#E0E0E0,#3C3C3C
+Button Secondary Text,#000000,#FFFFFF
+Spacing Small,8px,8px
+Spacing Medium,16px,16px
+Spacing Large,24px,24px
+Border Radius Small,4px,4px
+Border Radius Medium,8px,8px
+Border Radius Large,16px,16px
+Shadow Small,0px 1px 2px rgba(0, 0, 0, 0.1),0px 1px 2px rgba(255, 255, 255, 0.1)
+Shadow Medium,0px 4px 8px rgba(0, 0, 0, 0.1),0px 4px 8px rgba(255, 255, 255, 0.1)
+Shadow Large,0px 8px 16px rgba(0, 0, 0, 0.1),0px 8px 16px rgba(255, 255, 255, 0.1)
+Component A,Value A Light,Value A Dark
+Component B,Value B Light,Value B Dark
+Component C,Value C Light,Value C Dark
